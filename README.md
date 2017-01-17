@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+gst here, been quite a long time since my last coding work.
+gotta reboot myself
